@@ -1,0 +1,28 @@
+.item-nav li a{
+    padding-left: 15px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+
+}
+
+.item-nav li a:hover{
+    padding-left: 15px;
+    text-align: center;
+    color: gray;
+    text-decoration: none;
+
+}
+
+.item-nav li a#active {
+    color: white;
+    background-color: black;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 10px;
+
+}
+
+.item-nav li{
+    padding: 5px;
+}
